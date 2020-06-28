@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FoodOrderingApp</string>
+    <string name="slogan">No matter where you are: whether you are at home, or in the office, or o the beach - we will find you and we will feed you</string>
+    <string name="btnPrev">Back</string>
+    <string name="btnNext">Next</string>
+
+    <string name="sliderHeading">Heading</string>
+    <string name="imageViewDescription">sliderImages</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display">DisplayActivity</string>
+
+    <string name="recyclerViewImg">Image Of Logo</string>
+    <string name="recyclerViewItemName">Item Name</string>
+    <string name="recyclerViewItemPrice">Item Price</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_display_server">DisplayActivityServer</string>
+</resources>

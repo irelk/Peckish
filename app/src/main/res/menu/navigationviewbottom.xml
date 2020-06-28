@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_mainCoursebottom"
+        android:icon="@drawable/restaurant"
+        android:title="Main Course" />
+    <item
+        android:id="@+id/nav_drinksbottom"
+        android:icon="@drawable/beer"
+        android:title="Drinks" />
+    <item
+            android:id="@+id/nav_dessertbottom"
+            android:icon="@drawable/birthday"
+            android:title="Desserts" />
+    </group>
+</menu>
